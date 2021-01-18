@@ -15,6 +15,9 @@ I developed [Patternite](https://patternite.com), a tool for crowd-sourced softw
 [![Duncan Forster's Patternite contributions](https://dev.patternite.com/badge/?username=duncster)](https://patternite.com/users/d5a991ecf2/duncster)
 
 
+#### Contact
+If you'd like to get in touch, you can email me at duncan.forster@mail.utoronto.ca.
+
 <!--
 **duncster94/duncster94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
