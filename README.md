@@ -12,7 +12,7 @@ I've developed a deep learning network integration algorithm, [BIONIC](https://g
 
 I developed [Patternite](https://patternite.com), a tool for crowd-sourced software design patterns. Everyone is welcome to contribute, and you can read more about Patternite [here](https://patternite.com/about). Below is a badge showing my contributions.
 
-[![Duncan Forster's Patternite contributions](https://dev.patternite.com/badge/?username=duncster)](https://patternite.com/users/d5a991ecf2/duncster)
+
 
 
 #### Contact
