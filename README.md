@@ -10,7 +10,7 @@ I've developed a deep learning network integration algorithm, [BIONIC](https://g
 
 #### Some other things I work on
 
-I co-developed [Patternite](https://patternite.com), a tool for crowd-sourced software design patterns, along with [jonparkdev](https://github.com/jonparkdev). Everyone is welcome to contribute their design patterns, and you can read more about Patternite [here](https://patternite.com/about). We also wrote an article for Hacker Noon about Patternite's development, which you can read [here](https://hackernoon.com/how-we-built-this-a-platform-for-crowdsourced-design-patterns-kj1j33j9). Below is a badge showing my contributions.
+I co-developed [Patternite](https://patternite.com), a tool for crowd-sourced software design patterns, along with [jonparkdev](https://github.com/jonparkdev). Everyone is welcome to contribute their design patterns, and you can read more about Patternite [here](https://patternite.com/about). We also wrote an article for Hacker Noon about Patternite's development, which you can read [here](https://hackernoon.com/how-we-built-this-a-platform-for-crowdsourced-design-patterns-kj1j33j9). We also have a [YouTube channel](https://www.youtube.com/channel/UCAiE60CZNsYgLQ57GDccq-Q)! Below is a badge showing my contributions.
 
 [![Duncan Forster's Patternite contributions](https://dev.patternite.com/badge/?username=duncster)](https://patternite.com/users/d5a991ecf2/duncster)
 
