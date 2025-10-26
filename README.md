@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Duncan, a Postdoc in the Department of Molecular Genetics at The University of Toronto. 
+I'm Duncan, a Postdoc in the Department of Systems Biology at Harvard Medical School. 
 
 #### What I work on
 
