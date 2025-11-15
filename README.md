@@ -9,7 +9,7 @@ I work on integrating the plethora of diverse biological datasets to develop a u
 I've developed a deep learning network integration algorithm, [BIONIC](https://github.com/bowang-lab/BIONIC), which uses graph convolutional networks (GCNs) to learn topological features for genes and proteins across different interaction networks (protein-protein interaction, coexpression, genetic interaction, etc.). These network-specific features are combined to generate integrated gene and protein features, which encode functional information from the input biological networks. These integrated features can then be clustered to identify groups of functionally related genes/proteins (i.e. functional modules), potentially identifying new subsystems in the cell.
 
 #### Contact
-If you'd like to get in touch, you can email me at duncan.forster@mail.utoronto.ca.
+If you'd like to get in touch, you can email me at duncan_forster@hms.harvard.edu.
 
 <!--
 **duncster94/duncster94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
