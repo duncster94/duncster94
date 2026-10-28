@@ -1,6 +1,4 @@
-### Hi there 👋
-
-I'm Duncan, a Postdoc in the Department of Systems Biology at Harvard Medical School. 
+I'm Duncan, a Postdoc in the Genetics Department at Harvard Medical School. 
 
 #### What I work on
 
